@@ -6,7 +6,7 @@ http://stackoverflow.com/questions/9802259/why-do-people-use-heroku-when-aws-is-
 
 ## Error Driven Learning
 
-** {{ Statement about intentional errors to assist with the learning curve }} **
+{% raw %}{{Statement about intentional errors to assist with the learning curve}}{% endraw %}
 
 ## Landscape goes here?
 

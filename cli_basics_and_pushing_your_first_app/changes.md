@@ -589,7 +589,7 @@ In my case I just appended ` - Deployed by Quinn`, but you can modify the title 
 
 ### Exercise: Change and environmental variable and deploy
 
-{{{ Try to change a variable that is required by the buildpack? }}}
+{% raw %}{{{ Try to change a variable that is required by the buildpack? }}}{% endraw %}
 
 **Check it out:** What happens if...
 * ... you push your application after changing the environmental variable?
@@ -620,4 +620,3 @@ To pull in material from the previous chapter, how do you...
 # To add
 
 resource: http://blog.pivotal.io/cloud-foundry-pivotal/products/simplified-application-deployment-with-cloud-foundry-manifest
-
